@@ -10,7 +10,7 @@ Helium is a small framework with a built-in CMS. The framework can be used with 
 4. Configure Helium (steps below)
 
 ### Configuration
-1. Go to the configuration file (can be found in the config folder) and set your database.
+1. Go to the configuration file (can be found in the config folder) and set your database and site url.
 2. Log in to Helium via https://yoururl/he-admin
 3. Use the following credentials:
    Username: admin
