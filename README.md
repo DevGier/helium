@@ -33,7 +33,7 @@ Changelog
 - Added notifications and events with AJAX
 - Added template support
 - Added blog posts
-- Added 
+- And more
 
 
 0.02:
