@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !\.(?:css|js|jpe?g|gif|png)$ [NC]
+RewriteRule ^([a-zA-Z0-9-z\-\_]+)$ index.php?url=$1
+RewriteRule ^([a-zA-Z0-9-z\-\_]+)/$ index.php?url=$1
+RewriteRule ^([a-zA-Z0-9-z\-\_]+)/([a-zA-Z0-9-z\-\_=/]+)$ index.php?url=$1&params=$2

@@ -1,0 +1,42 @@
+.topbar {
+  border-bottom: 1px solid #eee;
+}
+
+.navbar {
+  border-bottom: 1px solid #eee;
+}
+
+.navbar-nav .nav-link {
+  padding: 20px 15px!important;
+  font-weight: 700;
+  color: #000!important;
+}
+
+.navbar-nav .nav-link.active {
+  color: #EB3A82!important;
+}
+
+.banner {
+  background-image: linear-gradient(to bottom right, #EB3A82, #DB3D91);
+  color: #fff;
+}
+
+.banner h1 {
+  font-size: 80px;
+}
+
+.footer {
+  background-color: #222;
+}
+
+.footer-copyright {
+  background-color: #111;
+}
+
+.btn {
+  border-radius: 0px!important;
+}
+
+.test {
+  border: 0px solid #000; 
+}

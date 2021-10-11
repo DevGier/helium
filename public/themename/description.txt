@@ -1,0 +1,4 @@
+title=Theme with no name
+description=This is a theme with a name lmao<br>Made by <a href="https://devtim.nl">Tim de Gier</a>
+author=Tim de Gier
+version=0.0.1
