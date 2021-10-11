@@ -34,12 +34,6 @@ CREATE TABLE `he_notifications` (
   `isread` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Dumping data for table `he_notifications`
---
-
-INSERT INTO `he_notifications` (`id`, `message`, `time`, `isread`) VALUES
-
 -- --------------------------------------------------------
 
 --
