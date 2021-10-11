@@ -10,11 +10,12 @@ Helium is a small framework with a built-in CMS. The framework can be used with 
 4. Configure Helium (steps below)
 
 ### Configuration
-1. Log in to Helium via https://yoururl/he-admin
-2. Use the following credentials:
+1. Go to the configuration file (can be found in the config folder) and set your database and site url.
+2. Log in to Helium via https://yoururl/he-admin
+3. Use the following credentials:
    Username: admin
    Password: admin
-3. Change your credentials to something else
+4. Change your credentials to something else
    Extra: for extra security, you can go to Config -> Security and change the password salt or hash type (you must be logged in). Make sure you change your password after saving the new security options. Do not change security options if you're site has multiple users, this function will be looked at later on)
 
 ```
