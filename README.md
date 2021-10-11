@@ -35,7 +35,6 @@ Changelog
 - Added blog posts
 - And more
 
-
 0.02:
 - Added more advanced options to helium (backend)
 
