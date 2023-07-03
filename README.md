@@ -1,4 +1,4 @@
-# Helium CMS
+# Helium CMS (old project)
 Helium is a small framework with a built-in CMS. The framework can be used with and/or without the CMS.
 
 ### Installation
